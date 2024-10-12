@@ -1,4 +1,4 @@
 {
   "username": "Izuka Dev",
-  "password": "motherfucker"
+  "password": "motherFucker"
 }
