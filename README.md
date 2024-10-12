@@ -1,1 +1,4 @@
-# Izuka
+{
+  "username": "Izuka Dev",
+  "password": "motherfucker"
+}
